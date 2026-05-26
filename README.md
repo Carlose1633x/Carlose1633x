@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Carlos Avila 👋
 
-<!--
-**Carlose1633x/Carlose1633x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **TSU en Informática** enfocado en el desarrollo backend, la gestión de bases de datos y la arquitectura de software. Me apasiona construir soluciones eficientes, escalables y del mundo real que resuelvan problemas de negocio auténticos.
 
-Here are some ideas to get you started:
+### 🚀 Proyecto Destacado: Sistema Sildemar
+Soy co-creador y desarrollador de **Sildemar** ([storesildemar.com.ve](https://storesildemar.com.ve)), un sistema web integral de gestión de inventario y ventas diseñado para optimizar comercios.
+* **Mi rol:** Diseño de arquitectura, desarrollo backend y despliegue automatizado.
+* **Stack utilizado:** Docker, PHP, SQL, y metodologías ágiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+* **Lenguajes:** PHP, Java, Python, SQL, Lua
+* **DevOps & SysAdmin:** Docker, Linux (Lubuntu, Kali), Virtualización
+* **Herramientas & Entornos:** Git, GitHub, MySQL/PostgreSQL
+
+---
+
+### 📈 Mis Estadísticas de GitHub
+
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radial)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radial)
+
+---
+
+### 📫 Conéctate conmigo
+* **LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-usuario)
+* **Web del Proyecto:** [storesildemar.com.ve](https://storesildemar.com.ve)
