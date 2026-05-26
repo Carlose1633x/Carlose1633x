@@ -4,14 +4,14 @@ Soy **TSU en Informática** enfocado en el desarrollo backend, la gestión de ba
 
 ### 🚀 Proyecto Destacado: Sistema Sildemar
 Soy co-creador y desarrollador de **Sildemar** ([storesildemar.com.ve](https://storesildemar.com.ve))-([Catalogo Sildemar](https://storesildemar.com.ve/cliente/cliente.html)), un sistema web integral de gestión de inventario y ventas diseñado para optimizar comercios.
-* **Mi rol:** Diseño de arquitectura, desarrollo backend y despliegue automatizado.
+* **Mi rol:** Diseño de arquitectura, desarrollo backend, fronted y despliegue automatizado.
 * **Stack utilizado:** Docker, PHP, SQL, y metodologías ágiles.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-* **Lenguajes:** PHP, Java, Python, SQL, Lua
+* **Lenguajes:** PHP, Java, Python, SQL, Lua, JavaScript, HTML, CSS
 * **DevOps & SysAdmin:** Docker, Linux (Lubuntu, Kali), Virtualización
 * **Herramientas & Entornos:** Git, GitHub, MySQL/PostgreSQL
 
