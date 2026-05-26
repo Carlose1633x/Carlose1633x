@@ -3,7 +3,7 @@
 Soy **TSU en Informática** enfocado en el desarrollo Full Stack, la gestión de bases de datos y la arquitectura de software. Me apasiona construir soluciones eficientes, escalables y de impacto real que resuelvan problemas de negocio auténticos.
 
 ### 🚀 Proyecto Destacado: Sistema Sildemar
-Soy co-creador y desarrollador de **Sildemar**, un sistema web integral de gestión de inventario y ventas diseñado para optimizar comercios.
+Soy co-creador y desarrollador del sitio web de **Autorepuestos Sildemar**, un sistema web integral de gestión de inventario y ventas diseñado para optimizar comercios.
 * **Plataforma Principal:** [storesildemar.com.ve](https://storesildemar.com.ve)
 * **Módulo de Cliente:** [Catálogo Sildemar](https://storesildemar.com.ve/cliente/cliente.html)
 * **Mi rol:** Diseño de arquitectura, desarrollo Backend, Frontend y despliegue automatizado.
